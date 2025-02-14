@@ -1,0 +1,5 @@
+# database.xlsx -> ignorar arquivo específico
+# *.xlsx -> ignorar extensão do arquivo
+
+# ignorar a pasta toda
+arquivos/
